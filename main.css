@@ -6,35 +6,6 @@
 }
 /* background */
 :root {
-  --channeltextarea-background: var(--background-tertiary);
-  --radio-bar-accent-color: transparent;
-  --deprecated-text-input-bg: var(--background-secondary);
-  --deprecated-text-input-border-disabled: var(--background-secondary);
-  --text-brand: var(--brand-experiment);
-}
-.tabBody-2dgbAs, .chat-2ZfjoI, .container-1NXEtd, .container-1oAagU, .privateChannels-oVe7HL, .homeWrapperNormal-bu1BS6 {
-  background-color: var(--background-tertiary);
-}
-.peopleColumn-1wMU14, .chatContent-3KubbW:not(.container-3XgAHv *), .pageWrapper-2PwDoS, .scroller-29cQFV, .stageSection-3mAD8V {
-  border-radius: var(--border-radius-1);
-  margin-left: 10px;
-  background-color: var(--background-primary) !important;
-}
-.scroller-WSmht3 {
-  border-radius: var(--border-radius-1) var(--border-radius-1) 0 0;
-}
-.scroller-1ox3I2 {
-  background-color: var(--background-secondary);
-}
-.chatContent-3KubbW, .sidebar-1tnWFu, .tabBody-2dgbAs, .pageWrapper-2PwDoS, .stageSection-3mAD8V, .applicationStore-2nk7Lo {
-  margin-bottom: 10px;
-}
-.scroller-35tvpe {
-  margin-bottom: 24px;
-}
-.pageWrapper-2PwDoS, .content-1jQy2l, .applicationStore-2nk7Lo {
-  margin-right: 10px;
-}
-.channel-1Shao0 {
-  margin-right: 8px;
+  
+  
 }

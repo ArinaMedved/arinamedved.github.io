@@ -1,8 +1,8 @@
 .theme-dark {
-  --text-positive: #6AA84F;
+  --text-positive: #86c350;
 }
 .theme-light {
-  --text-positive: #38761D;
+  --text-positive: #74a944;
 }
 /* background */
 :root {

@@ -4,10 +4,25 @@
   --background-secondary: #1f1f1f;
   --background-secondary-alt: #1a1a1a; 
   --interactive-normal: #bcbcbc; 
+  --text-normal: rgb(255, 255, 255);
+  --background-primary: #272727;
+  --channeltextarea-background: #303030;
+  --background-floating: #1d1d1d;
+  
 }
 .theme-light {
   --text-positive: #74a944;
 }
+
+.form-3gdLxP {
+position: relative;
+-ms-flex-negative: 0;
+flex-shrink: 0;
+padding-left: 20px;
+padding-right: 16px;
+margin-top: -20px;
+}
+
 /* background */
 :root {
   

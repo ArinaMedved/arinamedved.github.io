@@ -8,6 +8,10 @@
   --background-primary: #272727;
   --channeltextarea-background: #303030;
   --background-floating: #1d1d1d;
+  --scrollbar-thin-thumb: #303030;
+  --scrollbar-thin-track: #2f2f2f transparent;
+  --scrollbar-auto-thumb: #1f1f1f;
+  --scrollbar-auto-track: #303030;
   
 }
 .theme-light {
